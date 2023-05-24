@@ -1,0 +1,19 @@
+{
+    "name": "Chic-fil-a",
+    "short_name": "CFA",
+    "icons": [
+        {
+            "src": "/Assets/Theming/android-chrome-192x192.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "/Assets/Theming/android-chrome-512x512.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ],
+    "theme_color": "#dd1f37",
+    "background_color": "#dd1f37",
+    "display": "standalone"
+}
